@@ -156,3 +156,5 @@ If you are a bit curious and want to dive in the code, we’ve made a video to g
 The following Youtube video is about the Live Answer update and some details on how we are using this custom integration on our end on Discord with Tico.
 
 [https://youtu.be/H1qtBgrE8g8](https://youtu.be/H1qtBgrE8g8)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_voiceflow-discord&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_voiceflow-discord)
